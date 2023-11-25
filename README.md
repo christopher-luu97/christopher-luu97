@@ -20,11 +20,11 @@
 </div>
 
 ## About Me...
-
-- 🔗 I’m currently learning RShiny for dashboards, Web and moile app development!
+I have industry experience building products for clients including desktop applications, dashboards and automation!
+- 🔗 I’m currently learning RShiny for dashboards, Web and mobile app development!
 - 👐 I’m looking to contribute to open source and create more digital content
-- 🥅 2023-2024 Goals: Learn more about product development
-
+- ⚡ Fun fact: I spend my free time balancing my software side projects and technical reading with doom-scrolling social media and binging new shows!
+  
 ## My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
