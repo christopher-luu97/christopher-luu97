@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
