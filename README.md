@@ -23,7 +23,9 @@
 <div align="center">
 
   ## About Me...
+  
 </div>
+
   I have industry experience **building software products** for clients including desktop applications, dashboards, and automation!
   - 🔗 **Currently Learning**: RShiny for dashboards, Web and mobile app development!
   - 👐 **Current Goals**: Looking to contribute to opensource and create digital content.
