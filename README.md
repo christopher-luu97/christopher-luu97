@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=christopher-luu97&style=for-the-badge&color=blueviolet)
+
 
 <div id="badges">
   <a href="https://www.christopherluu.com">
