@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<p align="center">
+  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2158&size=25&center=true&vCenter=true&lines=Software+Engineer;Data+Scientist;Professional+Nerd" alt="Software Engineer, Data Scientist, Professional Nerd">
 </p>
 <div id="badges">
@@ -17,6 +16,7 @@
   <a href="https://medium.com/@cluu.codes1337">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+</div>
 </div>
 
 ## About Me...
