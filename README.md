@@ -7,7 +7,7 @@
     <a href="https://www.christopherluu.com">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
     </a>
-    <a href="https://www.linkedin.com/christopher-luu-542691149">
+    <a href="https://www.linkedin.com/in/christopher-luu-542691149/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@chris_codes">
