@@ -25,6 +25,8 @@
 - 👐 I’m looking to contribute to open source and create more digital content
 - 🥅 2023-2024 Goals: Learn more about product development
 
+## My Github Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
