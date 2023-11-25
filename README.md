@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  ## About Me...
+  ## 👋 Hi there, I'm Chris
   
 </div>
 
