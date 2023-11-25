@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/christopher-luu97/christopher-luu97/blob/main/cat_bongo.gif" width="150"/>
+  <img src="https://github.com/christopher-luu97/christopher-luu97/blob/main/cat_bongo.gif" width="150"/> 
+  <!-- GIF manually created from source: https://codepen.io/carolineartz/details/qBOEzQa -->
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2158&size=25&center=true&vCenter=true&lines=Software+Engineer;Data+Scientist;Professional+Nerd" alt="Software Engineer, Data Scientist, Professional Nerd">
   <div id="badges">
