@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=christopher-luu97&style=for-the-badge&color=blueviolet)
-
 
 <div id="badges">
   <a href="https://www.christopherluu.com">
@@ -17,6 +15,9 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   
