@@ -54,10 +54,14 @@
 
 <br>
 
-<div>
-  
-  ## :fire: My Stats
 
+<div align="center">
+
+  ## :fire: My Stats
+  
+</div>
+
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai"/>
   </a>
