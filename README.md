@@ -46,7 +46,7 @@ I have industry experience **building software products** for clients including 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=christopher-luu97&show_icons=true&theme=monokai&hide=contribs,prs,issues&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=christopher-luu97&show_icons=true&theme=monokai&hide=issues&rank_icon=github"/>
   </a>
 </div>
 
