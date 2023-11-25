@@ -19,6 +19,7 @@
 </div>
 
 ---
+
 <div align="center">
 
   ## About Me...
@@ -51,6 +52,7 @@
 </div>
 
 <br>
+
 ---
 
 <div align="center">
