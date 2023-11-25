@@ -19,12 +19,15 @@
 </div>
 
 ---
+<div align="center">
 
-## About Me...
-I have industry experience **building software products** for clients including desktop applications, dashboards, and automation!
-- 🔗 **Currently Learning**: RShiny for dashboards, Web and mobile app development!
-- 👐 **Current Goals**: Looking to contribute to opensource and create digital content.
-- ⚡ **In My Free Time**: Balancing software projects with technical reading, doom-scrolling social media, and binging new shows!
+  ## About Me...
+  I have industry experience **building software products** for clients including desktop applications, dashboards, and automation!
+  - 🔗 **Currently Learning**: RShiny for dashboards, Web and mobile app development!
+  - 👐 **Current Goals**: Looking to contribute to opensource and create digital content.
+  - ⚡ **In My Free Time**: Balancing software projects with technical reading, doom-scrolling social media, and binging new shows!
+    
+</div>
 
 ---
 
@@ -50,8 +53,10 @@ I have industry experience **building software products** for clients including 
 <br>
 ---
 
-## :fire: My Stats :
 <div align="center">
+  
+  ## :fire: My Stats :
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai"/>
   </a>
@@ -60,8 +65,10 @@ I have industry experience **building software products** for clients including 
   </a>
 </div>
 
-## 🏆 Github Profile Trophy
 <div align="center">
+  
+  ## 🏆 Github Profile Trophy
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=christopher-luu97&theme=monokai&title=Joined2020,Commits,Experience,Repositories,Stars,Followers"/>
   </a>
