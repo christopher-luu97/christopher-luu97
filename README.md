@@ -16,6 +16,12 @@
   </a>
 </div>
 
+## About Me...
+
+- 🔗 I’m currently learning RShiny for dashboards, Web and moile app development!
+- 👐 I’m looking to contribute to open source and create more digital content
+- 🥅 2023-2024 Goals: Learn more about product development
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2158&size=25&center=true&vCenter=true&lines=Software+Engineer;Data+Scientist;Professional+Nerd" alt="Software Engineer, Data Scientist, Professional Nerd">
 </p>
