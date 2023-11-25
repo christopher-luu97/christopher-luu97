@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" width="150" height="150/>
+  <img src="./cat_bong.gif" width="150"/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2158&size=25&center=true&vCenter=true&lines=Software+Engineer;Data+Scientist;Professional+Nerd" alt="Software Engineer, Data Scientist, Professional Nerd">
   <div id="badges">
