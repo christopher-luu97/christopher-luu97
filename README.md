@@ -47,6 +47,9 @@ I have industry experience **building software products** for clients including 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+
 ## :fire: My Stats :
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
