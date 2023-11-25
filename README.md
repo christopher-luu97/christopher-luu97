@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -17,7 +15,9 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Software+Engineer;Data+Scientist;Professional+Nerd" alt="Software Engineer, Data Scientist, Professional Nerd">
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-luu97&layout=compact&hide=jupyter%20notebook&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
