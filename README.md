@@ -23,7 +23,7 @@
 I have industry experience building products for clients including desktop applications, dashboards and automation!
 - 🔗 I’m currently learning RShiny for dashboards, Web and mobile app development!
 - 👐 I’m looking to contribute to open source and create more digital content
-- ⚡ Fun fact: I spend my free time balancing my software side projects and technical reading with doom-scrolling social media and binging new shows!
+- ⚡ I spend my free time balancing my software side projects and technical reading with doom-scrolling social media and binging new shows!
   
 ## My Github Stats
 
