@@ -54,7 +54,7 @@
 
 <br>
 
-<div align="center">
+<div>
   
   ## :fire: My Stats
 
